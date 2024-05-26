@@ -1,5 +1,5 @@
 # 💫 About Me:
- shirsendu/README.md<br>👋🏽Hey, I'm shirsendu<br>👩‍💻I'm a 18-year-old CSE student in India, <br>🤓 I’m currently learn MERN Stack<br>❤️ I'm passionate about crafting digital experiences.<br>⚡const Algorithm = [Tech,Code,Coffee]
+ 👋🏽Hey, I'm shirsendu<br>👩‍💻I'm a 18-year-old CSE student in India, <br>🤓 I’m currently learn MERN Stack<br>❤️ I'm passionate about crafting digital experiences.<br>⚡const Algorithm = [Tech,Code,Coffee]
 
 
 ## 🌐 Socials:
