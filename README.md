@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋🏽Hey, I'm shirsendu<br>👩‍💻I'm a 18-year-old CSE student in India, <br>🤓 I’m currently learn MERN Stack<br>❤️ I'm passionate about crafting digital experiences.<br>⚡const Algorithm = [Tech,Code,Coffee]
+ 👋🏽Hey, I'm shirsendu<br>👩‍💻I'm a 18-year-old CSE student in India, <br>🤓 I’m currently learn MERN Stack<br>❤️ I'm passionate about crafting digital experiences.<br>⚡const MyAlgorithm = [Tech,Code,Coffee]
 
 
 ## 🌐 Socials:
@@ -12,8 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shirsenduda&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shirsenduda&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shirsenduda&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -21,4 +19,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shirsenduda&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
