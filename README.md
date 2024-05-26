@@ -13,10 +13,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shirsenduda&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
+✨ Fun Facts
+In Valorent viper is my favorite Character.
+As a kid, I wanted to be an Gamer.
+I love eat espresso after switching from cappuccino.
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shirsenduda&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=shirsenduda&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
