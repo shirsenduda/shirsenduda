@@ -10,7 +10,7 @@
 
 
 # ✨ Fun Facts : 
-In Valorent viper is my favorite Character.<br> As a kid, I wanted to be an Gamer. <br> I love eat espresso after switching from cappuccino.
+• In Valorent viper is my favorite Character.<br> • As a kid, I wanted to be an Gamer. <br> • I love eat espresso after switching from cappuccino.
 
 
 
