@@ -1,5 +1,6 @@
-# Hey, I'm Shirsendu 👋🏽
-  👩‍💻I'm a 18-year-old CSE student in India, <br>🤓I’m currently learn MERN Stack<br>❤️I'm passionate about crafting digital experiences.<br>⚡const MyAlgorithm = [Tech,Code,Coffee]
+# 
+Hey, I'm Shirsendu 👋🏽
+👩‍💻I'm a 18-year-old CSE student in India, <br>🤓I’m currently learn MERN Stack<br>❤️I'm passionate about crafting digital experiences.<br>⚡const MyAlgorithm = [Tech,Code,Coffee]
 
 
 ## 🌐 Socials:
